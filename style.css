@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(135deg, #1a1a1a, #333);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+canvas {
+  background: #111;
+  border: 3px solid #00ffcc;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+h1 {
+  color: #00ffcc;
+  text-shadow: 0 0 10px #00ffcc;
+}
